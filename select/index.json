@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "base_track": "IGNITE",
+  "base_artist": "Eir Aoi",
+  "createdAt": "2026-03-12T13:12:45.208249Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ignite",
+      "artist": "Nobody Presents Blank Blue",
+      "has_synced": false,
+      "path": "select/01_Ignite_Nobody_Presents_Blank_Blue.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ignite",
+      "artist": "The Damned",
+      "has_synced": true,
+      "path": "select/02_Ignite_The_Damned.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ignite",
+      "artist": "Skillet",
+      "has_synced": true,
+      "path": "select/03_Ignite_Skillet.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ignite",
+      "artist": "WagakkiBand",
+      "has_synced": true,
+      "path": "select/04_Ignite_WagakkiBand.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ignite",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/05_Ignite_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ignite",
+      "artist": "Alan Walker feat. Julie Bergan, K-391 & SEUNGRI",
+      "has_synced": true,
+      "path": "select/06_Ignite_Alan_Walker_feat._Julie_Bergan,_K-391_&_SEUNGRI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ignite",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/07_Ignite_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ignite (feat. SEUNGRI)",
+      "artist": "K-391/Alan Walker/Julie Bergan/SEUNGRI",
+      "has_synced": true,
+      "path": "select/08_Ignite_(feat._SEUNGRI)_K-391_Alan_Walker_Julie_Bergan_SEUNGRI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ignite - 2016 League Of Legends World Championship",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/09_Ignite_-_2016_League_Of_Legends_World_Championship_Zedd.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ignite",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/10_Ignite_Zedd.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "IGNITE",
+      "artist": "Eir Aoi",
+      "has_synced": true,
+      "path": "select/11_IGNITE_Eir_Aoi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "IGNITE",
+      "artist": "Aoi Eir",
+      "has_synced": true,
+      "path": "select/12_IGNITE_Aoi_Eir.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ignite (feat. SeungRi) [Ahrix Remix]",
+      "artist": "K-391 feat. Alan Walker & Julie Bergan",
+      "has_synced": true,
+      "path": "select/13_Ignite_(feat._SeungRi)_[Ahrix_Remix]_K-391_feat._Alan_Walker_&_Julie_Bergan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ignite",
+      "artist": "Alan Walker, Julie Bergan, K-391",
+      "has_synced": true,
+      "path": "select/14_Ignite_Alan_Walker,_Julie_Bergan,_K-391.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ignite",
+      "artist": "Attila",
+      "has_synced": true,
+      "path": "select/15_Ignite_Attila.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ignite",
+      "artist": "UNSECRET feat. Neoni",
+      "has_synced": true,
+      "path": "select/16_Ignite_UNSECRET_feat._Neoni.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Ignite",
+      "artist": "UNSECRET/Neoni",
+      "has_synced": true,
+      "path": "select/17_Ignite_UNSECRET_Neoni.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "IGNITE",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_01_IGNITE_藍井エイル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "IGNITE",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_02_IGNITE_藍井エイル.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "IGNITE",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_03_IGNITE_藍井エイル.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "IGNITE",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_04_IGNITE_藍井エイル.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "IGNITE",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_05_IGNITE_藍井エイル.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "IGNITE",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_06_IGNITE_藍井エイル.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "ignite",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_07_ignite_藍井エイル.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "IGNITE",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_08_IGNITE_藍井エイル.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "IGNITE",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_09_IGNITE_藍井エイル.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "IGNITE",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/pl_10_IGNITE_藍井エイル.txt"
+    }
+  ]
+}
